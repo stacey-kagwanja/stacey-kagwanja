@@ -1,10 +1,4 @@
-<a href="">![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)</a>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
-
-
-
-
+<a href="https://github.com/stacey-kagwanja"><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" /></a>
 
 # 💫 About Me:
 Passionate about the intersection of quantitative finance and technology, and the innovative products it can create.<br><br>I've applied this in practice — developing a top-3 ML project analysing energy sector market sentiment with LSTMs, and pitching an AI-powered study app concept that was selected to be pitched at the Shard.<br>I've also created Python automations to enhance my own content creation workflow, and used Python and Java in numerous university modules.
