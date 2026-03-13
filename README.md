@@ -2,10 +2,6 @@
 Passionate about the intersection of quantitative finance and technology, and the innovative products it can create.<br><br>I've applied this in practice — developing a top-3 ML project analysing energy sector market sentiment with LSTMs, and being selected to pitch an AI-powered study app concept at the Shard.<br>I've also created Python automations to enhance my own content creation workflow, and used Python and Java in numerous university modules.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABR0lEQVR4AdSSvUoDQRCAZ%2FeI0VPBBIyFFrEJsbAQxEIb7dQ3SOMT2IpFSlNYWPgQYmOtdoL2WomS3sIfBJEEzeVnMzMw4SYk4bikybKzs%2FP3cTO3Fka8xgz4XQ0crffffxd3EqrltJ9gzsJsknWcQwF%2F%2FurM%2BKoGrOMcCpjyJwytzEzSxIFRjQIWb15d8RYFNQVJ2EZf4eKR53r59ObKnxV3%2FfLhcqd37KM8EQUs7eWhtJuHExRJIJvkcGsZWvjHCmuLkJufhv2VDJSPd2Dj%2FEFBFVAgvfRmNgU0h1qjpcJXB%2BvKjgykKprvZMIzq2f3ZLIszU2xliMyEN%2Bo1MDz0baRPi19dicCEBlYCZqhMrwKEa%2FhHRkYLhp0HzOgjMWB3Po3JzndmaplS%2B8CxbPWCApN3tm03%2FFRzLOW%2FXSSLaKA4hxGjxzYBgAA%2F%2F%2FXWjZoAAAABklEQVQDAJeMVinQiTIpAAAAAElFTkSuQmCC&logoWidth=20)](https://linkedin.com/in/stacey-kagwanja)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:staceykagwanja@gmail.com) 
-
 # 💻 Tech Stack:
 <strong>Languages: </strong>
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://github.com/stacey-kagwanja)
@@ -34,3 +30,8 @@ Passionate about the intersection of quantitative finance and technology, and th
 
 <strong>Hosting: </strong>
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)](https://github.com/stacey-kagwanja)
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABR0lEQVR4AdSSvUoDQRCAZ%2FeI0VPBBIyFFrEJsbAQxEIb7dQ3SOMT2IpFSlNYWPgQYmOtdoL2WomS3sIfBJEEzeVnMzMw4SYk4bikybKzs%2FP3cTO3Fka8xgz4XQ0crffffxd3EqrltJ9gzsJsknWcQwF%2F%2FurM%2BKoGrOMcCpjyJwytzEzSxIFRjQIWb15d8RYFNQVJ2EZf4eKR53r59ObKnxV3%2FfLhcqd37KM8EQUs7eWhtJuHExRJIJvkcGsZWvjHCmuLkJufhv2VDJSPd2Dj%2FEFBFVAgvfRmNgU0h1qjpcJXB%2BvKjgykKprvZMIzq2f3ZLIszU2xliMyEN%2Bo1MDz0baRPi19dicCEBlYCZqhMrwKEa%2FhHRkYLhp0HzOgjMWB3Po3JzndmaplS%2B8CxbPWCApN3tm03%2FFRzLOW%2FXSSLaKA4hxGjxzYBgAA%2F%2F%2FXWjZoAAAABklEQVQDAJeMVinQiTIpAAAAAElFTkSuQmCC&logoWidth=20)](https://linkedin.com/in/stacey-kagwanja)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:staceykagwanja@gmail.com) 
