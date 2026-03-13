@@ -7,7 +7,7 @@ Passionate about the intersection of quantitative finance and technology, and th
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:staceykagwanja@gmail.com) 
 
 # 💻 Tech Stack:
-** Languages: **
+** ## Languages: **
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://github.com/stacey-kagwanja)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)](https://github.com/stacey-kagwanja)
 [![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://github.com/stacey-kagwanja)
