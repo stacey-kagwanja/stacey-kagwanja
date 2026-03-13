@@ -1,10 +1,5 @@
 ![Banner](LinkedIn%20Banner%20Tech.jpg)
 
-<div style="position: relative;">
-  <img src="LinkedIn%20Banner%20Tech.jpg" />
-  <img src="LinkedIn%20Banner%20Finance.jpg" style="position: absolute; top: 0; left: 0;" />
-</div>
-
 # 💫 About Me:
 Passionate about the intersection of quantitative finance and technology, and the innovative products it can create.<br><br>I've applied this in practice — developing a top-3 ML project analysing energy sector market sentiment with LSTMs, and being selected to pitch an AI-powered study app concept at the Shard.<br>I've also created Python automations to enhance my own content creation workflow, and used Python and Java in numerous university modules.
 
