@@ -15,8 +15,8 @@ Passionate about the intersection of quantitative finance and technology, and th
 </td></tr></table>
 
 <table><tr>
-<td><strong>Languages:</strong></td>
-<td>
+<td valign="middle"><strong>Languages:</strong></td>
+<td valign="middle">
 <a href="https://github.com/stacey-kagwanja"><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" /></a>
 <a href="https://github.com/stacey-kagwanja"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" /></a>
 <a href="https://github.com/stacey-kagwanja"><img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" /></a>
