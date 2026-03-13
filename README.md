@@ -14,6 +14,17 @@ Passionate about the intersection of quantitative finance and technology, and th
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)](https://github.com/stacey-kagwanja)
 </td></tr></table>
 
+<table><tr>
+<td><strong>Languages:</strong></td>
+<td>
+<a href="https://github.com/stacey-kagwanja"><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" /></a>
+<a href="https://github.com/stacey-kagwanja"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" /></a>
+<a href="https://github.com/stacey-kagwanja"><img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" /></a>
+<a href="https://github.com/stacey-kagwanja"><img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white" /></a>
+</td>
+</tr></table>
+
+
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)](https://github.com/stacey-kagwanja)
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)](https://github.com/stacey-kagwanja)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://github.com/stacey-kagwanja)
