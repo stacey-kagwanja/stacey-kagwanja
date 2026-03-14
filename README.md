@@ -1,4 +1,4 @@
-![Banner](LinkedIn%20Banner%20Tech.jpg)
+![Banner](LinkedIn%20Banner%20Tech%20GIF.gif)
 
 # 💫 About Me:
 Passionate about the intersection of quantitative finance and technology, and the innovative products it can create.<br><br>I've applied this in practice — developing a top-3 ML project analysing energy sector market sentiment with LSTMs, and being selected to pitch an AI-powered study app concept at the Shard.<br>I've also created Python automations to enhance my own content creation workflow, and used Python and Java in numerous university modules.
