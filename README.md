@@ -1,7 +1,22 @@
 ![Banner](LinkedIn%20Banner%20Tech%20GIF.gif)
 
 # 💫 About Me:
-Passionate about the intersection of quantitative finance and technology, and the innovative products it can create.<br><br>I've applied this in practice — developing a top-3 ML project analysing energy sector market sentiment with LSTMs, and being selected to pitch an AI-powered study app concept at the Shard.<br>I've also created Python automations to enhance my own content creation workflow, and used Python and Java in numerous university modules.
+Passionate about the intersection of quantitative finance and technology, and the innovative products it can create.
+<br><br>I've applied this in practice — developing a top-3 ML project analysing energy sector market sentiment with LSTMs, and being selected to pitch an AI-powered study app concept at the Shard.<br>I've also created Python automations to enhance my own content creation workflow, and used Python and Java in numerous university modules.
+
+# 🚀 Top Projects:
+<table>
+<tr>
+<td width="60%">
+<strong>Energy Sector Sentiment Analysis</strong><br>
+Sentiment and correlation analysis on the energy sector.
+<br>Measuring daily correlation between sentiment and price movement, and training an LSTM model to classify incoming energy sector headlines.
+</td>
+<td width="40%">
+<img src="Energy%20Sector%20Sentiment%20and%20Correlation%20Analysis%20GIF.gif" />
+</td>
+</tr>
+</table>
 
 
 # 💻 Tech Stack:
