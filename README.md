@@ -10,7 +10,7 @@ Passionate about the intersection of quantitative finance and technology, and th
 <td width="50%" valign="middle">
 <strong><a href="https://github.com/stacey-kagwanja/Energy-Sector-News-Sentiment-Analysis-and-Stock-Price-Correlation">Energy Sector Sentiment Analysis</a></strong><br>
 Sentiment and correlation analysis on the energy sector.
-<br>Measuring daily correlation between sentiment and price movement, and building an LSTM model to classify incoming energy sector headlines.
+<br>Measured daily correlation between sentiment and price movement, and built an LSTM model to classify incoming energy sector headlines.
 </td>
 <td width="50%" valign="middle">
 <a href="https://github.com/stacey-kagwanja/Energy-Sector-News-Sentiment-Analysis-and-Stock-Price-Correlation"><img src="Energy%20Sector%20Sentiment%20and%20Correlation%20Analysis%20GIF.gif" width="100%"/></a>
