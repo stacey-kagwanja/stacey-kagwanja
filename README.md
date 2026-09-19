@@ -7,6 +7,7 @@ Passionate about the intersection of quantitative finance and technology, and th
 # 🚀 Top Projects:
 <table>
 <tr>
+  
 <td width="50%" valign="middle">
 <strong><a href="https://github.com/stacey-kagwanja/Energy-Sector-News-Sentiment-Analysis-and-Stock-Price-Correlation">Energy Sector Sentiment Analysis</a></strong><br>
 Sentiment and correlation analysis on the energy sector.
@@ -15,6 +16,15 @@ Sentiment and correlation analysis on the energy sector.
 <td width="50%" valign="middle">
 <a href="https://github.com/stacey-kagwanja/Energy-Sector-News-Sentiment-Analysis-and-Stock-Price-Correlation"><img src="Energy%20Sector%20Sentiment%20and%20Correlation%20Analysis%20GIF.gif" width="100%"/></a>
 </td>
+
+<td width="50%" valign="middle">
+<strong><a href="https://github.com/stacey-kagwanja/Visualisation-of-Fatou-and-Julia-Sets">Visualisation of Fatou and Julia Sets</a></strong><br>
+This project explores the computer-graphical generation of Julia sets corresponding to various functions.
+</td>
+<td width="50%" valign="middle">
+<a href="https://github.com/stacey-kagwanja/Visualisation-of-Fatou-and-Julia-Sets"><img src="Energy%20Sector%20Sentiment%20and%20Correlation%20Analysis%20GIF.gif" width="100%"/></a>
+</td>
+
 </tr>
 </table>
 
