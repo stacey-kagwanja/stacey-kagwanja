@@ -24,7 +24,7 @@ Sentiment and correlation analysis on the energy sector.
 This project explores the computer-graphical generation of Julia sets corresponding to various functions.
 </td>
 <td width="50%" valign="middle">
-<a href="https://github.com/stacey-kagwanja/Visualisation-of-Fatou-and-Julia-Sets"><img src="Images%20for%20README/Fatou%20and%20Julia%20sets%20for%20(2z3%20+%201)%25(3z2)%20zoom%20in%20GIF.gif" width="100%"/></a>
+<a href="https://github.com/stacey-kagwanja/Visualisation-of-Fatou-and-Julia-Sets"><img src="Fatou%20and%20Julia%20sets%20for%20(2z3%20+%201)%25(3z2)%20zoom%20in%20GIF.gif" width="100%"/></a>
 </td>
 
 </tr>
